@@ -1,0 +1,1 @@
+Windows Terminal was built using WinUI2, which led to numerous ugly workarounds and gradually became a mess. This project aims to rewrite TerminalApp using WinUI3 while retaining the good parts and modularizing it.
